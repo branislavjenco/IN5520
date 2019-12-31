@@ -10,3 +10,5 @@ One of the fundamental concepts in statistics, and all of mathematics. It states
 The Central Limit Theorem says, that the distribution of this histogram is in the limit is the normal (gaussian) distribution. In other words, the probability distribution of the sample means of any distribution is the normal distribution.
 
 There's a long answer on Stack Overflow about the intuition behind CLT that is worth going through. https://stats.stackexchange.com/questions/3734/what-intuitive-explanation-is-there-for-the-central-limit-theorem
+
+Found a great article and discussion on HN about CLT: https://news.ycombinator.com/item?id=21909445
