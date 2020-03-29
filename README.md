@@ -1,5 +1,5 @@
 # IN5520
-Collection of my notes for the course IN5520 at IFI UIO. 
+Some notes for the course IN5520 at IFI UIO. 
 
 * [Central Limit Theorem](https://github.com/branislavjenco/IN5520/blob/master/central-limit-theorem.md)
 * [Segmentation](https://github.com/branislavjenco/IN5520/blob/master/segmentation.md)
